@@ -1,4 +1,6 @@
+.cache/
 .coverage
+.eggs/
 MANIFEST
 coverage.xml
 nosetests.xml
